@@ -326,7 +326,7 @@ header .navbar ul li a:hover {
 /* hero media queries starts*/
 @media (max-width: 450px) {
   .home .btn {
-    margin: 4rem 0;
+    margin: 5rem 0;
   }
   .socials {
     margin-top: 12rem;
@@ -344,7 +344,7 @@ header .navbar ul li a:hover {
 
 @media (max-width: 449px) {
   .home .btn {
-    margin: 4rem 0;
+    margin: 5rem 0;
   }
   .socials {
     margin-top: 10rem;
@@ -352,7 +352,7 @@ header .navbar ul li a:hover {
   .home .image img {
     width: 50%; /* Reduce image size */
     margin-top: -4rem; /* Adjust margin to reduce overlap */
-    margin-left: 10rem; /* Adjust left margin for better centering */
+    margin-left: 4rem; /* Adjust left margin for better centering */
   }
   .home .content p {
     font-size: 2rem;
